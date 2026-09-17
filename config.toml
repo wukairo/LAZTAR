@@ -1,4 +1,4 @@
-baseURL = "https://HuyMinhDev.github.io/LAZTAR-PEEP/"
+baseURL = "https://wukairo.github.io/LAZTAR/"
 relativeURLs = true
 canonifyURLs = true
 publishDir = "public"
