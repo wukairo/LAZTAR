@@ -216,7 +216,7 @@ Tôi đổi `pick` thành `squash`, sau đó dùng lệnh `:wq` để lưu và t
 
 ![1789623795093](/week-01/image/day-01.vi/1789623795093.png)
 
-Trong màn hình chỉnh commit message, tôi giữ lại nội dung mô tả mong muốn cho commit sau khi gộp; các dòng bắt đầu bằng `#` chỉ là chú thích. Sau đó, tôi lưu và thoát.
+Trong màn hình chỉnh commit message, tôi giữ lại 1 nội dung commit mong muốn và xóa các commit còn lại, sau đó lưu và thoát.
 
 ![1789623905215](/week-01/image/day-01.vi/1789623905215.png)
 

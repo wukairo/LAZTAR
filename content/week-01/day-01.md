@@ -214,7 +214,7 @@ I change `pick` to `squash`, then use `:wq` to save and exit.
 
 ![1789623795093](/week-01/image/day-01.vi/1789623795093.png)
 
-In the commit-message editor, I keep the description that I want for the squashed commit. Lines beginning with `#` are comments. I then save and exit.
+In the commit-message editor, I keep 1 commit message I want and remove other commits, then I save and exits.
 
 ![1789623905215](/week-01/image/day-01.vi/1789623905215.png)
 
