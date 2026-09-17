@@ -210,7 +210,7 @@ I run `git rebase -i` to start an interactive rebase. Git opens an editor in whi
 
 ![1789622984259](/week-01/image/day-01.vi/1789622984259.png)
 
-I change `pick` to `squash`, then use `:wq` to save and exit.
+I change `pick` of commit 2 and 3 to `squash`, then use `:wq` to save and exit.
 
 ![1789623795093](/week-01/image/day-01.vi/1789623795093.png)
 

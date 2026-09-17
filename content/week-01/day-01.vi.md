@@ -212,7 +212,7 @@ Sau đó, tôi chạy `git rebase -i` để bắt đầu interactive rebase. Git
 
 ![1789622984259](/week-01/image/day-01.vi/1789622984259.png)
 
-Tôi đổi `pick` thành `squash`, sau đó dùng lệnh `:wq` để lưu và thoát.
+Tôi đổi `pick` của commit 2 và 3 thành `squash`, sau đó dùng lệnh `:wq` để lưu và thoát.
 
 ![1789623795093](/week-01/image/day-01.vi/1789623795093.png)
 
