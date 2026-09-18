@@ -9,4 +9,4 @@ weight = 2
 
 ## Link page giới thiệu bản thân
 
-<https://personal-porfolio-nine-sigma.vercel.app/>
+<https://lephucuong-portfolio.vercel.app/>
